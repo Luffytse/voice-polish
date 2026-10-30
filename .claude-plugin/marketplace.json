@@ -1,0 +1,11 @@
+{
+  "name": "voice-polish-marketplace",
+  "owner": { "name": "Luffytse" },
+  "plugins": [
+    {
+      "name": "voice-polish",
+      "source": "./",
+      "description": "Restructures spoken, voice-dictated prompts into clear written ones before the agent reads them."
+    }
+  ]
+}
